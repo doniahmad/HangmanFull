@@ -1,0 +1,4 @@
+if (guess == 'q')
+        {
+            useHint();
+        }
